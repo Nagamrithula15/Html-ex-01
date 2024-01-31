@@ -1,0 +1,90 @@
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+       
+         <img src="Capture.PNG" alt="not display" usemap="#mrithu">
+         <map name="mrithu">
+             <area shape="poly" coords="540,91,344,75,337,253,578,235" href="goat.html">
+             <area shape="poly" coords="206,256,416,255,408,421,170,417" href="horse.html">
+             <area shape="poly" coords="437,267,640,254,639,419,422,417" href="hen.html">
+         </map>
+    </body>
+</html>
+-->GOAT-->
+<html>
+    <head>
+        <title>GOAT</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <marquee behavior="" direction=""><center><h1>ABOUT GOAT</h1></center></marquee>
+    <center><img src="goatpic.jpg" alt=""></center>
+    <h2>Details...</h2>
+    <p><big><b>Species and Types:</b></p><br>
+    Goats belong to the genus Capra and are classified into various species, including the domestic goat (Capra aegagrus hircus).<br>
+    There are numerous breeds of domestic goats, each with its unique characteristics and adaptability to different environments.<br><br>
+    <b>Characteristics:</b><br>
+Goats are known for their curiosity, intelligence, and social behavior.<br>
+They are herbivores, primarily grazing on grasses, shrubs, and plants.<br>
+The distinctive appearance includes cloven hooves and horns, although some breeds may be naturally polled (hornless).<br>
+Goats have a lifespan of 10 to 15 years, depending on factors such as breed and living conditions.<br><br>
+<b>Uses:</b><br>
+<b>Milk:</b> Goats are raised for their milk, which is consumed directly or used to make various dairy products like cheese, yogurt, and butter.<br>
+<b>Meat:</b> Goat meat, known as chevon or mutton, is popular in many cultures worldwide..<br>
+<b>Fiber:</b> Some breeds, such as Angora and Cashmere goats, are raised for their luxurious fibers (mohair and cashmere, respectively)..<br>
+<b>Companionship:</b> Goats are also kept as pets and for their companionship, particularly in rural and suburban settings..<br>
+
+
+    </body>
+</html>
+-->HORSE -->
+<html>
+    <head>
+        <title>HORSE</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+       <marquee behavior="" direction=""><center><h1>ABOUT HORSE</h1></center></marquee>
+    <center><img src="horsepic.jpg" alt=""></center>
+    <h2>Details...</h2>
+    <p><big><b>Biology and Anatomy:</b></p><br>
+     <b>Species:</b> Domestic horses belong to the species Equus ferus caballus.<br>
+     <b>Anatomy:</b> Horses are large, herbivorous mammals with a strong and muscular body. They have a single hoof on each foot, adapted for running.<br><br>
+     <b>Uses:</b><br>
+     <b>Transportation:</b> Horses were historically vital for travel and transport before the advent of automobiles and trains.<br>
+     <b>Agriculture:</b> Horses were used for plowing fields and pulling carts.<br>
+     <b>Recreation:</b> Horses are popular for recreational activities such as horseback riding, trail riding, and various equestrian sports.<br>
+     <b>Sports:</b> Horses are involved in various competitive sports like horse racing, dressage, show jumping, and polo.<br><br>
+     <b>Challenges:</b><br>
+     Horses face various health issues, such as colic, lameness, and dental problems.<br>
+     There are concerns about the welfare of working horses, particularly in developing countries.<br>
+    </body>
+</html>
+-->HEN-->
+<html>
+    <head>
+        <title>HEN</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+       <marquee behavior="" direction=""><center><h1>ABOUT HEN</h1></center></marquee>
+    <center><img src="henpic.jpg" alt=""></center>
+    <h2>Details...</h2>
+     <p><big><b>Physical Characteristics:</b></p><br>
+     <b>Size:</b> Hens are generally smaller than roosters (male chickens) and have a more streamlined appearance.<br>
+     <b>Feathers:</b> They have a combination of feathers that can vary in color and pattern depending on the breed. Feathers are typically softer than those of roosters.<br>
+     <b>Comb and Wattles:</b> Hens have a comb (fleshy crest on the head) and wattles (dangling flaps of skin under the beak) that can be less prominent than those of roosters.<br><br>
+     <b>life cycle:</b><br>
+     <b>Chickens:</b> Hens usually start laying eggs at around 5-6 months of age, but this can vary. They can continue laying for several years.<br>
+     <b>Lifespan:</b> The lifespan of a hen can range from 5 to 10 years, depending on factors such as breed and living conditions.<br><br>
+     <b>Economic Importance:</b><br>
+     Hens are economically significant as a source of eggs and meat. They are raised on farms worldwide, contributing to global agriculture and food production.<br>
+    </body>
+</html>
